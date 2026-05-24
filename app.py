@@ -39,9 +39,7 @@ def add_skill():
         st.session_state.user_skills.append(skill)
     # Clear input after pressing enter or add button
     st.session_state.skill_input = "" 
-    # Expertise Section display fix
-if st.session_state.user_skills:
-    st.info("Added Skills: " + ", ".join(st.session_state.user_skills))
+
 
 # 2. CUSTOM CSS (Premium White Background Inputs + Perfect Alignment)
 st.markdown("""
