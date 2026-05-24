@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EliteConnect AI
 *Architect top-tier proposals and emails that command authority and close deals.*
 
@@ -14,3 +15,7 @@ EliteConnect AI is a high-performance proposal engineering tool designed for fre
 - **Frontend:** Streamlit
 - **AI Engine:** Google Gemini 1.5 Flash
 - **Document Processing:** FPDF, python-docx, PyPDF2
+=======
+# EliteConnect-AI
+A premium, glass-themed AI proposal and email engineering tool designed for high-end freelance pitching.
+>>>>>>> 7d2e19fc57e7e4df6156a24740a1ad9a99f5fec5
